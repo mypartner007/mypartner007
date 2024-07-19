@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 **Web/Full Stack projects**
 
 [![Lids](https://img.shields.io/badge/-&nbsp;Lids-ED8B00?style=flat)](https://www.lids.com/)
-[![AligneursFrançais](https://img.shields.io/badge/-&nbsp;Aligneurs&nbsp;Français&#8209;Terminal-ED8B00?style=flat)](https://app.aligneursfrancais.com)
+[![AligneursFrançais](https://img.shields.io/badge/-&nbsp;Aligneurs&nbsp;Français-ED8B00?style=flat)](https://app.aligneursfrancais.com)
 [![Chipleader AI](https://img.shields.io/badge/-&nbsp;ChipLeaderAI-ED8B00?style=flat)](https://ai.chipleader.com)
 [![CannaGo](https://img.shields.io/badge/-&nbsp;CannaGo-ED8B00?style=flat)](https://canngo.express/)
 
