@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -64,10 +64,9 @@ Here are some ideas to get you started:
 **Web/Full Stack projects**
 
 [![Lids](https://img.shields.io/badge/-🏫&nbsp;Lids-000000?style=flat)](https://www.lids.com/)
-[![Aligneurs Français](https://img.shields.io/badge/-💎&nbsp;Aligneurs Français&#8209;Terminal-000000?style=flat)](https://app.aligneursfrancais.com)
+[![AligneursFrançais](https://img.shields.io/badge/-💎&nbsp;Aligneurs&nbsp;Français&#8209;Terminal-000000?style=flat)](https://app.aligneursfrancais.com)
 [![Chipleader AI](https://img.shields.io/badge/-🃏&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
 [![CannaGo](https://img.shields.io/badge/-📰&nbsp;CannaGo-000000?style=flat)](https://canngo.express/)
 
 
 ⭐️ From [Smile](https://github.com/mypartner007)
-
