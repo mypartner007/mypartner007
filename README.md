@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 **Languages I have used**
 
-![C](https://img.shields.io/badge/-C-ED8B00?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-ED8B00?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-ED8B00?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ED8B00?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-ED8B00?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-ED8B00?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-ED8B00?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-ED8B00?style=flat&logo=MySQL)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 
 
@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 
 **Web/Full Stack projects**
 
-[![Lids](https://img.shields.io/badge/-&nbsp;Lids-000000?style=flat)](https://www.lids.com/)
-[![AligneursFrançais](https://img.shields.io/badge/-&nbsp;Aligneurs&nbsp;Français&#8209;Terminal-000000?style=flat)](https://app.aligneursfrancais.com)
-[![Chipleader AI](https://img.shields.io/badge/-&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
-[![CannaGo](https://img.shields.io/badge/-&nbsp;CannaGo-000000?style=flat)](https://canngo.express/)
+[![Lids](https://img.shields.io/badge/-&nbsp;Lids-ED8B00?style=flat)](https://www.lids.com/)
+[![AligneursFrançais](https://img.shields.io/badge/-&nbsp;Aligneurs&nbsp;Français&#8209;Terminal-ED8B00?style=flat)](https://app.aligneursfrancais.com)
+[![Chipleader AI](https://img.shields.io/badge/-&nbsp;ChipLeaderAI-ED8B00?style=flat)](https://ai.chipleader.com)
+[![CannaGo](https://img.shields.io/badge/-&nbsp;CannaGo-ED8B00?style=flat)](https://canngo.express/)
 
 
 ⭐️ From [Smile](https://github.com/mypartner007)
