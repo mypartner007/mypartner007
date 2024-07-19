@@ -20,25 +20,27 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&
+logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
+![NoSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=NoSQL)
+
 
 <p>
   <a href="https://github.com/mypartner007" target="_blank" rel="noopener noreferrer">
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=smiledev10162&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api?username=mypartner007&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats'
     />
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=smiledev10162&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=mypartner007&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats-toplangs'
     />
   </a>
@@ -53,16 +55,21 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=django)
+![Laravel](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=laravel)
+![Vue](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=vue)
+![ReactNative](https://img.shields.io/badge/-Python-000000?style=flat&logo=reactnative)
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
 **Web/Full Stack projects**
 
-[![Learn with Socrates](https://img.shields.io/badge/-🏫&nbsp;&nbsp;LearnWithSocrates-000000?style=flat)](https://practiceplaygrow.com)
-[![Cyop Community DAO Terminal](https://img.shields.io/badge/-💎&nbsp;CyOp&#8209;Terminal-000000?style=flat)](https://cyop.io)
-[![Chip Leader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
-[![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
+[![Lids](https://img.shields.io/badge/-🏫&nbsp;&nbsp;LearnWithSocrates-000000?style=flat)](https://www.lids.com/)
+[![Aligneurs Français](https://img.shields.io/badge/-💎&nbsp;CyOp&#8209;Terminal-000000?style=flat)](https://app.aligneursfrancais.com)
+[![Chipleader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
+[![CannaGo](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://canngo.express/)
 
 
 ⭐️ From [Smile](https://github.com/mypartner007)
+
