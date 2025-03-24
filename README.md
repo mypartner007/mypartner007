@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-**Some of the technologies I have worked with**
+**Technologies I have worked with**
 
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 
-**Some of tools I have used for teamwork 🤝**
+**Tools I have used for teamwork 🤝**
 
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](#)
 
 
-**Some of code editors I have used 💻**
+**Code editors I have used 💻**
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
