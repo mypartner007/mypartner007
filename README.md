@@ -30,9 +30,8 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-
-
-
+ 
+ 
 **Languages and Frameworks I have often used**
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -61,9 +60,8 @@ Here are some ideas to get you started:
 [![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
-
-
-
+ 
+ 
 **Technologies I have worked with**
 
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
@@ -101,9 +99,8 @@ Here are some ideas to get you started:
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
-
-
-
+ 
+ 
 **Tools I have used for teamwork 🤝**
 
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
@@ -113,9 +110,8 @@ Here are some ideas to get you started:
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](#)
-
-
-
+ 
+ 
 **Code editors I have used 💻**
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
@@ -126,9 +122,8 @@ Here are some ideas to get you started:
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
-
-
-
+ 
+ 
 **Some clients I have worked for 💼**
 
 [![Lids](https://img.shields.io/badge/-&nbsp;Lids-ED8B00?style=flat)](https://www.lids.com/)
