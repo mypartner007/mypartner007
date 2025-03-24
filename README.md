@@ -16,6 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
+<p>
+  <a href="https://github.com/mypartner007" target="_blank" rel="noopener noreferrer">
+    <img
+      height="180em"
+      src="https://satoshj-readme-state.vercel.app/api?username=mypartner007&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      alt='github-stats'
+    />
+    <img
+      height="180em"
+      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=mypartner007&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      alt='github-stats-toplangs'
+    />
+  </a>
+</p>
+
+
+
 **Languages and Frameworks I have often used**
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -46,20 +63,6 @@ Here are some ideas to get you started:
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 
-<p>
-  <a href="https://github.com/mypartner007" target="_blank" rel="noopener noreferrer">
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=mypartner007&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats'
-    />
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=mypartner007&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats-toplangs'
-    />
-  </a>
-</p>
 
 **Technologies I have worked with**
 
@@ -100,6 +103,7 @@ Here are some ideas to get you started:
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 
+
 **Tools I have used for teamwork 🤝**
 
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
@@ -109,6 +113,7 @@ Here are some ideas to get you started:
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](#)
+
 
 
 **Code editors I have used 💻**
@@ -121,6 +126,7 @@ Here are some ideas to get you started:
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+
 
 
 **Some clients I have worked for 💼**
