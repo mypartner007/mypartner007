@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)](#)
-[![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)](#)
-[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)](#)
+[![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)](#)
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)
 [![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
-[![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 
