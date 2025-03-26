@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+👯 I’m looking to collaborate on new project!
 <!--
 **mypartner007/mypartner007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,22 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p>
-  <a href="https://github.com/mypartner007" target="_blank" rel="noopener noreferrer">
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=mypartner007&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats'
-    />
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=mypartner007&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats-toplangs'
-    />
-  </a>
-</p>
- 
  
 **Languages and Frameworks I have often used**
 
